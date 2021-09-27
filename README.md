@@ -8,10 +8,10 @@ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-1e1d1f?style-for=the-badge&logo=javascript&)
 ![Rest_API](https://img.shields.io/badge/-RestAPI-1e1d1f?style-for=the-badge&logo=restapi&)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-1e1d1f?style-for=the-badge&logo=nodejs&)
-![Material_UI](https://img.shields.io/badge/-MaterialUI-1e1d1f?style-for=the-badge&logo=materialui&)
-![Unit_tests](https://img.shields.io/badge/-UnitTest-1e1d1f?style-for=the-badge&logo=unittest&)
+![Material UI](https://img.shields.io/badge/-MaterialUI-1e1d1f?style-for=the-badge&logo=materialui&)
+![Unit tests](https://img.shields.io/badge/-UnitTest-1e1d1f?style-for=the-badge&logo=unittest&)
 ![Storybook](https://img.shields.io/badge/-Storybook-1e1d1f?style-for=the-badge&logo=storybook&)
-![Flex_SCSS](https://img.shields.io/badge/-FlexSCSS-1e1d1f?style-for=the-badge&logo=flexscss&)
+![Flex and SCSS](https://img.shields.io/badge/-FlexSCSS-1e1d1f?style-for=the-badge&logo=flexscss&)
 
 Follow me
 
@@ -20,4 +20,3 @@ Follow me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BorisPanich&hide=stars,contribs&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisPanich&layout=compact)]
-<!-- (https://github.com/BorisPanich/github-readme-stats) -->
